@@ -8,5 +8,6 @@ No matter how strong a boost to the study of any spectrum of science a universit
 - [x] Скотт Майерс - Эффективное использование Си++;
 - [ ] Бьерн Страуструп - Программирование;
 - [ ] Бьерн Страуструп - Краткий курс. Второе издание.
+- [ ] David Thomas&Andrew Hunt - Pragmatic programmer
 
 So far, I've been doing an internship at **IT-Kalmykia**, but since their bias is more in web development, I'm now floating freely :hourglass:
