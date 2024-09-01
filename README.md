@@ -5,9 +5,9 @@ No matter how strong a boost to the study of any spectrum of science a universit
 - [x] А.В.Столяров - Низкоуровневое программирование(Assembler & C) [2 издание];
 - [x] А.В.Столяров - Системы и сети(Operating Systems) [3 издание];
 - [x] А.В.Столяров - Парадигмы(C++ & Lisp & Tcl) [4 издание];
-- [x] Скотт Майерс - Эффективное использование Си++;
-- [ ] Бьерн Страуструп - Программирование;
-- [ ] Бьерн Страуструп - Краткий курс. Второе издание.
-- [ ] David Thomas&Andrew Hunt - Pragmatic programmer
+- [x] David Thomas&Andrew Hunt - Pragmatic programmer;
+- [x] Scott Meyers - 55 Specific Ways to Improve Your Programs and Designs;
+- [ ] Scott Meyers - Effective Modern C++;
+- [ ] Scott Meyers - Effective STL;
 
 So far, I've been doing an internship at **IT-Kalmykia**, but since their bias is more in web development, I'm now floating freely :hourglass:
