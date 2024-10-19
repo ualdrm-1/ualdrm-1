@@ -7,7 +7,11 @@ No matter how strong a boost to the study of any spectrum of science a universit
 - [x] А.В.Столяров - Парадигмы(C++ & Lisp & Tcl) [4 издание];
 - [x] David Thomas&Andrew Hunt - Pragmatic programmer;
 - [x] Scott Meyers - 55 Specific Ways to Improve Your Programs and Designs;
-- [ ] Scott Meyers - Effective Modern C++;
-- [ ] Scott Meyers - Effective STL;
+- [x] Scott Meyers - Effective Modern C++;
+- [x] Jacek Golovic - C++17 STL;
+- [x] Scott Chacon & Ben Straub - Pro Git 2-nd Edition;
+- [ ] Max Schlee - QT 5.10;
+- [ ] Thomas Cormen .. - Introduction to Alghoritms 3-d Edition;
+- [ ] Scott Meyers - Effective STL.
 
 So far, I've been doing an internship at **IT-Kalmykia**, but since their bias is more in web development, I'm now floating freely :hourglass:
