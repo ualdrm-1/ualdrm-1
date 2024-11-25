@@ -10,6 +10,7 @@ No matter how strong a boost to the study of any spectrum of science a universit
 - [x] Scott Meyers - Effective Modern C++;
 - [x] Jacek Golovic - C++17 STL;
 - [x] Scott Chacon & Ben Straub - Pro Git 2-nd Edition;
+- [ ] Alan A. A. Donovan - The Go Programming Language;
 - [ ] Max Schlee - QT 5.10;
 - [ ] Thomas Cormen .. - Introduction to Alghoritms 3-d Edition;
 - [ ] Scott Meyers - Effective STL.
