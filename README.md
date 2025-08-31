@@ -11,8 +11,6 @@ No matter how strong a boost to the study of any spectrum of science a universit
 - [x] Jacek Golovic - C++17 STL;
 - [x] Scott Chacon & Ben Straub - Pro Git 2-nd Edition;
 - [x] Scott Meyers - Effective STL;
-- [ ] Alan A. A. Donovan - The Go Programming Language;
-- [ ] Max Schlee - QT 5.10;
-- [ ] Thomas Cormen .. - Introduction to Alghoritms 3-d Edition.
-
-So far, I've been doing an internship at **IT-Kalmykia**, but since their bias is more in web development.:hourglass:
+- [x] Alan A. A. Donovan - The Go Programming Language;
+- [x] Max Schlee - QT 5.10;
+- [x] Thomas Cormen .. - Introduction to Alghoritms 3-d Edition.
